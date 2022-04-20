@@ -2,6 +2,8 @@
 
 > range slider controller component with number inputs made with chakra-ui
 
+![gif](showcase.gif)
+
 ## Install
 
 ```sh
